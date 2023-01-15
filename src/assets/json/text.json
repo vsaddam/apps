@@ -1,0 +1,2153 @@
+[
+    {
+        "isInvoicePrintDetails": false,
+        "classification": "NA",
+        "isInvoicePicklistPrintDetails": false,
+        "upc": "456987388764",
+        "numberOfVisitors": "NA",
+        "tax": {
+            "name": "DefaultTaxCategory",
+            "percentage": 0,
+            "id": "B45094CAE919493A9DB1630E862A20CD"
+        },
+        "shortUrl": "Qdhume",
+        "weight": "1.00",
+        "stockMin": "NA",
+        "shortDescription": "Men's Chino Shorts",
+        "offerEnd": "January 5, 2021 12:11:00",
+        "hasDiscount": false,
+        "uomWhlId": "Kilogram",
+        "brands": {
+            "name": "Calvin Klein",
+            "subBrand": null,
+            "id": "F775EF9EDA1341BC812FF0E212C81989"
+        },
+        "qtyStd": "NA",
+        "options": {
+            "options": [
+                "color",
+                "size"
+            ],
+            "defaultOption": {
+                "color": "black",
+                "size": "32"
+            },
+            "showOptionUnique": [],
+            "optionValues": [
+                {
+                    "color": [
+                        "black",
+                        "Grey",
+                        "Ink"
+                    ]
+                },
+                {
+                    "size": [
+                        "32",
+                        "34",
+                        "38"
+                    ]
+                }
+            ]
+        },
+        "saleCount": 39,
+        "isGeneric": true,
+        "rating": 4,
+        "productNumber": "85439075",
+        "charactersiticsDescription": "NA",
+        "currentCharacteristic": "NA",
+        "qtyMin": "NA",
+        "qtyType": false,
+        "genericProductId": "NA",
+        "addedToCartCount": "NA",
+        "isStocked": 6,
+        "kaScreenShotIpad": "NA",
+        "kaIsVariants": true,
+        "category": [
+            "men",
+            "shorts"
+        ],
+        "kaDiscountEnabled": "false",
+        "instantCheckout": true,
+        "purchaseCount": "NA",
+        "proprietaryPageUrl": "",
+        "isTaxable": false,
+        "kaScreenShotMobile": "NA",
+        "volume": "0",
+        "shelfHeight": "2",
+        "name": "Men's Chino Shorts",
+        "shelfWidth": "2",
+        "discount": 46,
+        "kaScreenShotDesktop": "NA",
+        "isSold": true,
+        "image": [
+            "https://images.kachyng.com/8777/d049/37b7/6080/a9141e192bd31d89/3c8eb502850d5ed0784f415c932e2bac.jpeg",
+            "https://images.kachyng.com/8777/d049/37b7/6080/a9141e192bd31d89/65d28e9d1cc9a4f52869eb202bc53b05.jpeg",
+            "https://images.kachyng.com/8777/d049/37b7/6080/a9141e192bd31d89/cc80e799a53d43308a0569fb0d7dd013.jpeg",
+            "https://images.kachyng.com/8777/d049/37b7/6080/a9141e192bd31d89/eaaa8abfefbea060ca7b91680399b47e.jpeg"
+        ],
+        "shelfDepth": "2",
+        "qtyMax": "NA",
+        "id": "18FEDB42489C486291BF9102831ED186",
+        "costType": "NA",
+        "tags": [
+            "Calvin Klein",
+            "Men",
+            "Shorts"
+        ],
+        "unitsPerPallet": "NA",
+        "productType": "I",
+        "isBom": false,
+        "brand": [
+            "calvin klein"
+        ],
+        "availableCharacteristics": {
+            "availableCharacteristics": [
+                {
+                    "productId": "39F987E9C32B4758AB9D098286997038",
+                    "characteristics": [
+                        {
+                            "name": "color",
+                            "value": "Grey"
+                        },
+                        {
+                            "name": "size",
+                            "value": "38"
+                        }
+                    ]
+                },
+                {
+                    "productId": "5ECFA6C0A03346A1A26076ED8951EA8F",
+                    "characteristics": [
+                        {
+                            "name": "color",
+                            "value": "black"
+                        },
+                        {
+                            "name": "size",
+                            "value": "32"
+                        }
+                    ]
+                },
+                {
+                    "productId": "0B861F5161E242F3B2B04C44A210A0BF",
+                    "characteristics": [
+                        {
+                            "name": "color",
+                            "value": "Grey"
+                        },
+                        {
+                            "name": "size",
+                            "value": "32"
+                        }
+                    ]
+                },
+                {
+                    "productId": "8B976BB8DCB6481287A9C2C9D090E23D",
+                    "characteristics": [
+                        {
+                            "name": "color",
+                            "value": "black"
+                        },
+                        {
+                            "name": "size",
+                            "value": "34"
+                        }
+                    ]
+                },
+                {
+                    "productId": "E96749222DA544F7B4D8E66BDD3064FB",
+                    "characteristics": [
+                        {
+                            "name": "color",
+                            "value": "black"
+                        },
+                        {
+                            "name": "size",
+                            "value": "38"
+                        }
+                    ]
+                },
+                {
+                    "productId": "FF73F9B3F9B14BE5963732B5DF8267A2",
+                    "characteristics": [
+                        {
+                            "name": "color",
+                            "value": "Grey"
+                        },
+                        {
+                            "name": "size",
+                            "value": "34"
+                        }
+                    ]
+                },
+                {
+                    "productId": "B38A1F9205A7489CA81F3A8BC1EA67DE",
+                    "characteristics": [
+                        {
+                            "name": "color",
+                            "value": "Ink"
+                        },
+                        {
+                            "name": "size",
+                            "value": "38"
+                        }
+                    ]
+                },
+                {
+                    "productId": "5B20D44297854B579523B5723C888B6B",
+                    "characteristics": [
+                        {
+                            "name": "color",
+                            "value": "Ink"
+                        },
+                        {
+                            "name": "size",
+                            "value": "32"
+                        }
+                    ]
+                },
+                {
+                    "productId": "D2547A14190B4F55B5524875D7DE3D70",
+                    "characteristics": [
+                        {
+                            "name": "color",
+                            "value": "Ink"
+                        },
+                        {
+                            "name": "size",
+                            "value": "34"
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVerified": false,
+        "isActive": true,
+        "kaBarCode": "572721158108",
+        "categories": "NA",
+        "isShippingRequired": true,
+        "merchantIdentifier": "1FD7E66D12EB464787A6A6CEFB6C001C",
+        "kaComparePrice": "0.00",
+        "price": "69.50",
+        "new": "false",
+        "sku": "494191293008",
+        "isPurchased": true,
+        "fullDescription": "<font size=\"2\"><font face=\"&quot%3BMacys Sans&quot%3B, &quot%3BHelvetica Neue&quot%3B, Helvetica, Arial, sans-serif\">Modern chino shorts designed from an extra soft stretch fabric, these Calvin Klein shorts feature a versatile and refined solid look with subtle logo styling, multiple pockets and straight legs.<br></font></font><ul><li><font size=\"2\"><font face=\"&quot%3BMacys Sans&quot%3B, &quot%3BHelvetica Neue&quot%3B, Helvetica, Arial, sans-serif\">Button fly closure</font></font><br></li><li><font size=\"2\"><font face=\"&quot%3BMacys Sans&quot%3B, &quot%3BHelvetica Neue&quot%3B, Helvetica, Arial, sans-serif\">Front slant pockets back pockets</font></font><br></li><li><font size=\"2\"><font face=\"&quot%3BMacys Sans&quot%3B, &quot%3BHelvetica Neue&quot%3B, Helvetica, Arial, sans-serif\">Imported</font></font><br></li></ul><div><font size=\"2\"><font face=\"&quot%3BMacys Sans&quot%3B, &quot%3BHelvetica Neue&quot%3B, Helvetica, Arial, sans-serif\"><font size=\"4\"><strong>Size &amp Fit</strong></font><br></font></font></div><ul><li><font size=\"2\"><font face=\"&quot%3BMacys Sans&quot%3B, &quot%3BHelvetica Neue&quot%3B, Helvetica, Arial, sans-serif\">Regular fit</font></font><br></li><li><font size=\"2\"><font face=\"&quot%3BMacys Sans&quot%3B, &quot%3BHelvetica Neue&quot%3B, Helvetica, Arial, sans-serif\">Model is approximately 6'1\" and is wearing size 32/32</font></font><br></li></ul><div><font size=\"2\"><font face=\"&quot%3BMacys Sans&quot%3B, &quot%3BHelvetica Neue&quot%3B, Helvetica, Arial, sans-serif\"><font size=\"4\"><strong>Materials &amp Care</strong></font><br></font></font></div><ul><li><font size=\"2\"><font face=\"&quot%3BMacys Sans&quot%3B, &quot%3BHelvetica Neue&quot%3B, Helvetica, Arial, sans-serif\">Cotton/elastane</font></font><br></li><li><font size=\"2\"><font face=\"&quot%3BMacys Sans&quot%3B, &quot%3BHelvetica Neue&quot%3B, Helvetica, Arial, sans-serif\">Machine washable</font></font><br></li></ul><div><br></div><font size=\"2\"><font face=\"&quot%3BMacys Sans&quot%3B, &quot%3BHelvetica Neue&quot%3B, Helvetica, Arial, sans-serif\">Web ID: 12904575</font></font>",
+        "possiblevariation": [
+            {
+                "name": "color",
+                "value": {
+                    "variationvalue": [
+                        "grey",
+                        "black",
+                        "ink"
+                    ]
+                }
+            },
+            {
+                "name": "size",
+                "value": {
+                    "variationvalue": [
+                        "38",
+                        "32",
+                        "34"
+                    ]
+                }
+            }
+        ],
+        "prodId": "5ECFA6C0A03346A1A26076ED8951EA8F",
+        "bfinalDiscountedPrice": 37.53
+    },
+    {
+        "isInvoicePrintDetails": false,
+        "classification": "NA",
+        "isInvoicePicklistPrintDetails": false,
+        "upc": "098123764512",
+        "numberOfVisitors": "NA",
+        "tax": {
+            "name": "DefaultTaxCategory",
+            "percentage": 0,
+            "id": "B45094CAE919493A9DB1630E862A20CD"
+        },
+        "shortUrl": "MAhsvY",
+        "weight": "1.00",
+        "stockMin": "NA",
+        "shortDescription": "Men's 2.Zerogrand Laser Wing Oxford Shoes",
+        "offerEnd": "January 5, 2021 12:11:00",
+        "hasDiscount": false,
+        "uomWhlId": "Kilogram",
+        "brands": {
+            "name": "Cole Haan",
+            "subBrand": null,
+            "id": "039C7C7151DB49028AC997C6FC27A576"
+        },
+        "qtyStd": "NA",
+        "options": {
+            "options": [
+                "Size",
+                "Color"
+            ],
+            "defaultOption": {
+                "Size": "7M",
+                "Color": "Black"
+            },
+            "showOptionUnique": [],
+            "optionValues": [
+                {
+                    "Size": [
+                        "7M",
+                        "8M",
+                        "9M"
+                    ]
+                },
+                {
+                    "Color": [
+                        "Black",
+                        "Brown"
+                    ]
+                }
+            ]
+        },
+        "saleCount": 45,
+        "isGeneric": true,
+        "rating": 2,
+        "productNumber": "93436253",
+        "charactersiticsDescription": "NA",
+        "currentCharacteristic": "NA",
+        "qtyMin": "NA",
+        "qtyType": false,
+        "genericProductId": "NA",
+        "addedToCartCount": "NA",
+        "isStocked": 8,
+        "kaScreenShotIpad": "NA",
+        "kaIsVariants": true,
+        "category": [
+            "men",
+            "shoes"
+        ],
+        "kaDiscountEnabled": "false",
+        "instantCheckout": true,
+        "purchaseCount": "NA",
+        "proprietaryPageUrl": "",
+        "isTaxable": false,
+        "kaScreenShotMobile": "NA",
+        "volume": "0",
+        "shelfHeight": "20",
+        "name": "Men's 2.Zerogrand Laser Wing Oxford Shoes",
+        "shelfWidth": "10",
+        "discount": 12,
+        "kaScreenShotDesktop": "NA",
+        "isSold": true,
+        "image": [
+            "https://images.kachyng.com/fa80/5436/a6fe/e506/7353888fb62096c1/095f1c087bcb2ee42e914e92f5524b56.jpeg",
+            "https://images.kachyng.com/fa80/5436/a6fe/e506/7353888fb62096c1/4b8178bfd7e380632557099c1104e2a0.jpeg",
+            "https://images.kachyng.com/fa80/5436/a6fe/e506/7353888fb62096c1/7715d479b2befb5f8e755d8fb18f1a4d.jpeg",
+            "https://images.kachyng.com/fa80/5436/a6fe/e506/7353888fb62096c1/93be6d966bbcfb5257911c119b52e276.jpeg",
+            "https://images.kachyng.com/fa80/5436/a6fe/e506/7353888fb62096c1/c0038152f93bbfb9e53d739c0845c523.jpeg"
+        ],
+        "shelfDepth": "15",
+        "qtyMax": "NA",
+        "costType": "NA",
+        "id": "896109CCFF56446A85A72E57853E5A13",
+        "tags": [
+            "Cole Haan",
+            "Mens",
+            "Shoes"
+        ],
+        "unitsPerPallet": "NA",
+        "productType": "I",
+        "isBom": false,
+        "brand": [
+            "cole haan"
+        ],
+        "availableCharacteristics": {
+            "availableCharacteristics": [
+                {
+                    "productId": "4B55D2D7A0714DF8994E1D618589ADAB",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "9M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Brown"
+                        }
+                    ]
+                },
+                {
+                    "productId": "F2102BF18BE54B02BCDAD2F47AE100A8",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "7M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Brown"
+                        }
+                    ]
+                },
+                {
+                    "productId": "C4F91D8FD499486397FC011F488023FD",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "8M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Brown"
+                        }
+                    ]
+                },
+                {
+                    "productId": "7CE94EBCDB524EB3A23AC2093E5B06C4",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "7M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Black"
+                        }
+                    ]
+                },
+                {
+                    "productId": "C3D5F04C300E463FA3537567BF81242C",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "8M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Black"
+                        }
+                    ]
+                },
+                {
+                    "productId": "177339EFB3734C8BAD5F4B1C6A2C4E07",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "9M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Black"
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVerified": false,
+        "isActive": true,
+        "kaBarCode": "297619432288",
+        "categories": {
+            "categories": {
+                "name": "Men",
+                "subCategory": {
+                    "name": "All Mens's Shoes",
+                    "subCategory": {
+                        "name": "Shoes",
+                        "subCategory": null,
+                        "id": "230FA87805D14733A2A2C856DAC37FCB"
+                    },
+                    "id": "9805CAFB8BC54C959B684E68AA45AEAD"
+                },
+                "id": "EB5FCBF5528C405F8FD6323B5765A1A8"
+            }
+        },
+        "isShippingRequired": true,
+        "merchantIdentifier": "1FD7E66D12EB464787A6A6CEFB6C001C",
+        "kaComparePrice": "0.00",
+        "price": "200.00",
+        "new": "true",
+        "isPurchased": true,
+        "sku": "853060184317",
+        "fullDescription": "<font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">A remarkably innovative upgrade on a classic style, this next-generation oxford seamlessly integrates craftsmanship with athletic innovations that rival top-of-the-line running shoes.</font></font><br><ul><li><font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">Shoe width- medium and wide</font></font><br></li><li><font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">Integrated motion outsole, flex welt, and laser-perforated leather support unrestricted movement and flexibility</font></font><br></li><li><font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">Dynamic energy foam is designed to comfort and propel each part of the foot, and rivals top-of-the-line running shoes</font></font><br></li><li><font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">Zonal tongue and achilles padding generates ready-to-wear comfort from day one</font></font><br></li><li><font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">Anatomically contoured energy foam footbed cushions support weight distribution and moisture control</font></font><br></li><li><font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">Full rubber outsole provides mobility, durability, and reliable grip for any terrain</font></font><br></li><li><font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">Leather</font></font><br></li><li><font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">Wipe clean</font></font><br></li><li><font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">Imported</font></font><br></li></ul><p class=\"sceditor-nlf\"><br></p>",
+        "possiblevariation": [
+            {
+                "name": "size",
+                "value": {
+                    "variationvalue": [
+                        "9m",
+                        "7m",
+                        "8m"
+                    ]
+                }
+            },
+            {
+                "name": "color",
+                "value": {
+                    "variationvalue": [
+                        "brown",
+                        "black"
+                    ]
+                }
+            }
+        ],
+        "prodId": "7CE94EBCDB524EB3A23AC2093E5B06C4",
+        "afinalDiscountedPrice": 176,
+        "bfinalDiscountedPrice": 176
+    },
+    {
+        "isInvoicePrintDetails": false,
+        "classification": "NA",
+        "isInvoicePicklistPrintDetails": false,
+        "upc": "345123789675",
+        "numberOfVisitors": "NA",
+        "tax": {
+            "name": "DefaultTaxCategory",
+            "percentage": 0,
+            "id": "B45094CAE919493A9DB1630E862A20CD"
+        },
+        "shortUrl": "dAMpGU",
+        "weight": "2.00",
+        "stockMin": "NA",
+        "shortDescription": "Classic Fit Logo Jersey T-Shirt",
+        "offerEnd": "January 5, 2021 12:11:00",
+        "hasDiscount": false,
+        "uomWhlId": "Kilogram",
+        "brands": {
+            "name": "Polo Ralph Lauren",
+            "subBrand": null,
+            "id": "4206BA9AF12847698158219478C739AD"
+        },
+        "qtyStd": "NA",
+        "options": "NA",
+        "saleCount": 15,
+        "isGeneric": false,
+        "rating": 1,
+        "productNumber": "60502030",
+        "charactersiticsDescription": "NA",
+        "currentCharacteristic": "NA",
+        "qtyMin": "NA",
+        "qtyType": false,
+        "genericProductId": "NA",
+        "addedToCartCount": "NA",
+        "isStocked": 17,
+        "kaScreenShotIpad": "NA",
+        "kaIsVariants": false,
+        "category": [
+            "men",
+            "t-shirts"
+        ],
+        "kaDiscountEnabled": "false",
+        "instantCheckout": true,
+        "purchaseCount": "NA",
+        "proprietaryPageUrl": "",
+        "isTaxable": false,
+        "kaScreenShotMobile": "NA",
+        "volume": "0",
+        "shelfHeight": "2",
+        "name": "Classic Fit Logo Jersey T-Shirt",
+        "shelfWidth": "2",
+        "discount": 43,
+        "kaScreenShotDesktop": "NA",
+        "isSold": true,
+        "image": [
+            "https://images.kachyng.com/3e41/1626/9524/ddf3/a9219bf5135c445b/1195a7f8979edc635ee1ce91c6c2387e.",
+            "https://images.kachyng.com/3e41/1626/9524/ddf3/a9219bf5135c445b/1720a8d3e5bb47d259af76d82ecf10d7.",
+            "https://images.kachyng.com/3e41/1626/9524/ddf3/a9219bf5135c445b/6137d73841ff27d103d89f1297d952a8.",
+            "https://images.kachyng.com/3e41/1626/9524/ddf3/a9219bf5135c445b/c5581cd32014278c6d811c7b68bd9a4c."
+        ],
+        "shelfDepth": "2",
+        "qtyMax": "NA",
+        "id": "979943CC647046BEA14371A29CFC43C7",
+        "costType": "NA",
+        "tags": [
+            "Men",
+            "Polo",
+            "T-Shirts"
+        ],
+        "unitsPerPallet": "NA",
+        "productType": "I",
+        "isBom": false,
+        "brand": [
+            "polo ralph lauren"
+        ],
+        "availableCharacteristics": "NA",
+        "isVerified": false,
+        "isActive": true,
+        "kaBarCode": "384379779116",
+        "categories": {
+            "categories": {
+                "name": "Men",
+                "subCategory": {
+                    "name": "Men's Clothing",
+                    "subCategory": {
+                        "name": "T-Shirts",
+                        "subCategory": null,
+                        "id": "5CC266C613054D4CBCEC7BF2C674EDD5"
+                    },
+                    "id": "FB9F354E74FB4F5AAF7FBDE52B383208"
+                },
+                "id": "EB5FCBF5528C405F8FD6323B5765A1A8"
+            }
+        },
+        "isShippingRequired": true,
+        "merchantIdentifier": "1FD7E66D12EB464787A6A6CEFB6C001C",
+        "kaComparePrice": "35.70",
+        "price": "59.50",
+        "new": "true",
+        "sku": "270183032973",
+        "isPurchased": true,
+        "fullDescription": "<p><font size=\"2\"><font face=\"&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BMacys Sans&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, &quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BHelvetica Neue&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, Helvetica, Arial, sans-serif\">On this cotton T-shirt by Polo Ralph Lauren, our logo is printed to achieve a painted stencil effect<br></font></font></p><ul><li><font face=\"Macys Sans, Helvetica Neue, Helvetica, Arial, sans-serif\" size=\"2\">Crew neck</font><br></li><li><font size=\"2\"><font face=\"&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BMacys Sans&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, &quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BHelvetica Neue&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, Helvetica, Arial, sans-serif\">Short sleeves</font></font><br></li><li><font size=\"2\"><font face=\"&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BMacys Sans&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, &quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BHelvetica Neue&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, Helvetica, Arial, sans-serif\">\"Polo\" printed at the chest</font></font><br></li><li><font size=\"2\"><font face=\"&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BMacys Sans&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, &quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BHelvetica Neue&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, Helvetica, Arial, sans-serif\">Imported</font></font><br></li><p class=\"\" style=\"\"><font size=\"2\"><font face=\"&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BMacys Sans&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, &quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BHelvetica Neue&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, Helvetica, Arial, sans-serif\"><br></font></font></p></ul><div><font size=\"2\"><font face=\"&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BMacys Sans&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, &quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BHelvetica Neue&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, Helvetica, Arial, sans-serif\"><font size=\"4\"><strong>Size &amp Fit</strong></font><br></font></font></div><ul><li><font size=\"2\"><font face=\"&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BMacys Sans&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, &quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BHelvetica Neue&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, Helvetica, Arial, sans-serif\">Model is 6'1\" (185 cm) and wears a size medium</font></font><br></li><li><font size=\"2\"><font face=\"&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BMacys Sans&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, &quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BHelvetica Neue&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, Helvetica, Arial, sans-serif\">Classic Fit: our roomiest silhouette.</font></font><br></li><li><font size=\"2\"><font face=\"&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BMacys Sans&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, &quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BHelvetica Neue&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, Helvetica, Arial, sans-serif\">Size medium has a 28.5\" body length, a 20\" shoulder, and a 44\" chest.</font></font><br></li><p class=\"\" style=\"\"><font size=\"2\"><font face=\"&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BMacys Sans&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, &quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BHelvetica Neue&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, Helvetica, Arial, sans-serif\"><br></font></font></p></ul><div><font size=\"2\"><font face=\"&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BMacys Sans&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, &quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BHelvetica Neue&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, Helvetica, Arial, sans-serif\"><font size=\"4\"><strong>Materials &amp Care</strong></font><br></font></font></div><ul><li><font size=\"2\"><font face=\"&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BMacys Sans&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, &quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BHelvetica Neue&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, Helvetica, Arial, sans-serif\">All cotton</font></font><br></li><li><font size=\"2\"><font face=\"&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BMacys Sans&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, &quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BHelvetica Neue&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, Helvetica, Arial, sans-serif\">Machine washable</font></font><br></li></ul><div><br></div><p><font size=\"2\"><font face=\"&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BMacys Sans&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, &quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3BHelvetica Neue&quot%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B%3B, Helvetica, Arial, sans-serif\"><b>Web ID</b>: 13350091</font></font></p>",
+        "possiblevariation": [],
+        "afinalDiscountedPrice": 33.915,
+        "bfinalDiscountedPrice": 33.915
+    },
+    {
+        "isInvoicePrintDetails": false,
+        "classification": "NA",
+        "isInvoicePicklistPrintDetails": false,
+        "upc": "456123789098",
+        "numberOfVisitors": "NA",
+        "tax": {
+            "name": "DefaultTaxCategory",
+            "percentage": 0,
+            "id": "B45094CAE919493A9DB1630E862A20CD"
+        },
+        "shortUrl": "XvdnAX",
+        "weight": "0.50",
+        "stockMin": "NA",
+        "shortDescription": "Roll-Tab Button-Up Shirt, M, Red, Half, Tight",
+        "offerEnd": "January 5, 2021 12:11:00",
+        "hasDiscount": false,
+        "uomWhlId": "Kilogram",
+        "brands": {
+            "name": "Tommy Hilfiger",
+            "subBrand": null,
+            "id": "8BC2D2BAD7914B2A9A0D1E95AB273CA8"
+        },
+        "qtyStd": "NA",
+        "options": {
+            "options": [
+                "Size",
+                "Color",
+                "Sleeve",
+                "Fit"
+            ],
+            "defaultOption": {
+                "Fit": "Tight",
+                "Sleeve": "Half",
+                "Size": "M",
+                "Color": "Blue"
+            },
+            "showOptionUnique": [
+                "Color"
+            ],
+            "optionValues": [
+                {
+                    "Size": [
+                        "M",
+                        "L"
+                    ]
+                },
+                {
+                    "Color": [
+                        "Blue",
+                        "Red"
+                    ]
+                },
+                {
+                    "Sleeve": [
+                        "Half",
+                        "Full"
+                    ]
+                },
+                {
+                    "Fit": [
+                        "Tight",
+                        "Loose"
+                    ]
+                }
+            ]
+        },
+        "saleCount": 27,
+        "isGeneric": false,
+        "rating": 0,
+        "productNumber": "61956803",
+        "charactersiticsDescription": "Size: M, Color: Red, Sleeve: Half, Fit: Tight",
+        "currentCharacteristic": {
+            "currentCharacteristic": {
+                "productId": "08DD271A9045466797F865814125E4E9",
+                "characteristics": [
+                    {
+                        "name": "Size",
+                        "value": "M"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "Red"
+                    },
+                    {
+                        "name": "Sleeve",
+                        "value": "Half"
+                    },
+                    {
+                        "name": "Fit",
+                        "value": "Tight"
+                    }
+                ]
+            }
+        },
+        "qtyMin": "NA",
+        "qtyType": false,
+        "genericProductId": "18EA1FFB487E4AC599E7BB6E9E49C422",
+        "addedToCartCount": "NA",
+        "isStocked": 16,
+        "kaScreenShotIpad": "NA",
+        "kaIsVariants": true,
+        "category": [
+            "shirt",
+            "women"
+        ],
+        "kaDiscountEnabled": "false",
+        "instantCheckout": true,
+        "purchaseCount": "NA",
+        "proprietaryPageUrl": "",
+        "isTaxable": false,
+        "kaScreenShotMobile": "NA",
+        "volume": "0",
+        "shelfHeight": "1",
+        "name": "Roll-Tab Button-Up Shirt, M, Red, Half, Tight",
+        "shelfWidth": "1",
+        "discount": 13,
+        "kaScreenShotDesktop": "NA",
+        "isSold": true,
+        "image": [
+            "https://images.kachyng.com/262e/3181/3e5a/c34d/828a1ea187d25034/39c295ce5d777eaaeda8070d2ccefaa2.jpeg",
+            "https://images.kachyng.com/262e/3181/3e5a/c34d/828a1ea187d25034/8a6155645741a930a650579fb10236c4.jpeg",
+            "https://images.kachyng.com/262e/3181/3e5a/c34d/828a1ea187d25034/9ccb775cfa83c7a99b1fbb129bd92e3a.jpeg"
+        ],
+        "shelfDepth": "1",
+        "qtyMax": "NA",
+        "costType": "NA",
+        "id": "08DD271A9045466797F865814125E4E9",
+        "tags": [
+            "Shirt",
+            "Tommy Hilfiger",
+            "Women"
+        ],
+        "unitsPerPallet": "NA",
+        "productType": "I",
+        "isBom": false,
+        "brand": [
+            "tommy hilfiger"
+        ],
+        "availableCharacteristics": {
+            "availableCharacteristics": [
+                {
+                    "productId": "4CB4C08988CD494F9B48C6D1A56E2A7F",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "33F13FF6793546F1A9DB011431EB4DBE",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                },
+                {
+                    "productId": "08DD271A9045466797F865814125E4E9",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                },
+                {
+                    "productId": "367D02E2178F4DD2A41BAA00CE77EBF5",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                },
+                {
+                    "productId": "D8E1BB963C0D4C259F1102EB428A2FBF",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                },
+                {
+                    "productId": "A554E6ADB5E3444B99DBE69EB59CD8F2",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                },
+                {
+                    "productId": "8B3056038EA04AA38B6E4DBA41EF102E",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                },
+                {
+                    "productId": "B8AB103D25F349FAB42760C79959E751",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                },
+                {
+                    "productId": "701209CA34D84BECAAF33CDE95BC02A8",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "C86CB794D5314E4EB7C7090B190D0375",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "882544FC9F6C4C9CBFCB73774D27C8AA",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "956C51DEFBAD439DB51773DD30D3543A",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "CA5AFCD6B2E044779668617E1E9B6E6A",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "E40DBB8905494C779BA601EAEEF0D427",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "7DE6775E519C43AF9FE9F9B6393E93F3",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "51FFA0DE8C7C4DE18C3CED448E219AB7",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVerified": false,
+        "isActive": true,
+        "kaBarCode": "870291599450",
+        "categories": {
+            "categories": {
+                "name": "Women",
+                "subCategory": {
+                    "name": "Women's Clothing",
+                    "subCategory": {
+                        "name": "Shirt",
+                        "subCategory": null,
+                        "id": "32E472CAEB5343C4B5BAD21F57097902"
+                    },
+                    "id": "2E43A96D025F41AAACE76C16E2FA8E1D"
+                },
+                "id": "4F3AC4E591B24326A12736C91339AB01"
+            }
+        },
+        "isShippingRequired": true,
+        "merchantIdentifier": "1FD7E66D12EB464787A6A6CEFB6C001C",
+        "kaComparePrice": "0.00",
+        "price": "64.50",
+        "new": "true",
+        "isPurchased": true,
+        "sku": "935375326335",
+        "fullDescription": "",
+        "variation": [
+            {
+                "size": [
+                    {
+                        "name": "m",
+                        "stock": 10
+                    }
+                ],
+                "color": "red",
+                "sleeve": "half",
+                "fit": "tight"
+            }
+        ],
+        "selectedvariation": [
+            {
+                "name": "size",
+                "value": "m"
+            },
+            {
+                "name": "color",
+                "value": "red"
+            },
+            {
+                "name": "sleeve",
+                "value": "half"
+            },
+            {
+                "name": "fit",
+                "value": "tight"
+            }
+        ],
+        "possiblevariation": [
+            {
+                "name": "size",
+                "value": {
+                    "variationvalue": [
+                        "m",
+                        "l"
+                    ]
+                }
+            },
+            {
+                "name": "color",
+                "value": {
+                    "variationvalue": [
+                        "blue",
+                        "red"
+                    ]
+                }
+            },
+            {
+                "name": "sleeve",
+                "value": {
+                    "variationvalue": [
+                        "half",
+                        "full"
+                    ]
+                }
+            },
+            {
+                "name": "fit",
+                "value": {
+                    "variationvalue": [
+                        "loose",
+                        "tight"
+                    ]
+                }
+            }
+        ],
+        "afinalDiscountedPrice": 56.115,
+        "bfinalDiscountedPrice": 56.115
+    },
+    {
+        "isInvoicePrintDetails": false,
+        "classification": "NA",
+        "isInvoicePicklistPrintDetails": false,
+        "upc": "456123789098",
+        "numberOfVisitors": "NA",
+        "tax": {
+            "name": "DefaultTaxCategory",
+            "percentage": 0,
+            "id": "B45094CAE919493A9DB1630E862A20CD"
+        },
+        "shortUrl": "HCtEKz",
+        "weight": "0.50",
+        "stockMin": "NA",
+        "shortDescription": "Roll-Tab Button-Up Shirt, M, Blue, Half, Tight",
+        "offerEnd": "January 5, 2021 12:11:00",
+        "hasDiscount": false,
+        "uomWhlId": "Kilogram",
+        "brands": {
+            "name": "Tommy Hilfiger",
+            "subBrand": null,
+            "id": "8BC2D2BAD7914B2A9A0D1E95AB273CA8"
+        },
+        "qtyStd": "NA",
+        "options": {
+            "options": [
+                "Size",
+                "Color",
+                "Sleeve",
+                "Fit"
+            ],
+            "defaultOption": {
+                "Fit": "Tight",
+                "Sleeve": "Half",
+                "Size": "M",
+                "Color": "Blue"
+            },
+            "showOptionUnique": [
+                "Color"
+            ],
+            "optionValues": [
+                {
+                    "Size": [
+                        "M",
+                        "L"
+                    ]
+                },
+                {
+                    "Color": [
+                        "Blue",
+                        "Red"
+                    ]
+                },
+                {
+                    "Sleeve": [
+                        "Half",
+                        "Full"
+                    ]
+                },
+                {
+                    "Fit": [
+                        "Tight",
+                        "Loose"
+                    ]
+                }
+            ]
+        },
+        "saleCount": 41,
+        "isGeneric": false,
+        "rating": 0,
+        "productNumber": "61956801",
+        "charactersiticsDescription": "Size: M, Color: Blue, Sleeve: Half, Fit: Tight",
+        "currentCharacteristic": {
+            "currentCharacteristic": {
+                "productId": "51FFA0DE8C7C4DE18C3CED448E219AB7",
+                "characteristics": [
+                    {
+                        "name": "Size",
+                        "value": "M"
+                    },
+                    {
+                        "name": "Color",
+                        "value": "Blue"
+                    },
+                    {
+                        "name": "Sleeve",
+                        "value": "Half"
+                    },
+                    {
+                        "name": "Fit",
+                        "value": "Tight"
+                    }
+                ]
+            }
+        },
+        "qtyMin": "NA",
+        "qtyType": false,
+        "genericProductId": "18EA1FFB487E4AC599E7BB6E9E49C422",
+        "addedToCartCount": "NA",
+        "isStocked": 14,
+        "kaScreenShotIpad": "NA",
+        "kaIsVariants": true,
+        "category": [
+            "shirt",
+            "women"
+        ],
+        "kaDiscountEnabled": "false",
+        "instantCheckout": true,
+        "purchaseCount": "NA",
+        "proprietaryPageUrl": "",
+        "isTaxable": false,
+        "kaScreenShotMobile": "NA",
+        "volume": "0",
+        "shelfHeight": "1",
+        "name": "Roll-Tab Button-Up Shirt, M, Blue, Half, Tight",
+        "shelfWidth": "1",
+        "discount": 48,
+        "kaScreenShotDesktop": "NA",
+        "isSold": true,
+        "image": [
+            "https://images.kachyng.com/7c14/c9c6/d351/ee71/cb6ce27a24cd4708/3224bfb8912bb9c11eded0d5be4f35e9.jpeg",
+            "https://images.kachyng.com/7c14/c9c6/d351/ee71/cb6ce27a24cd4708/cfe8f8335b6caa7e536b3b0f6a79d043.jpeg"
+        ],
+        "shelfDepth": "1",
+        "qtyMax": "NA",
+        "costType": "NA",
+        "id": "51FFA0DE8C7C4DE18C3CED448E219AB7",
+        "tags": [
+            "Shirt",
+            "Tommy Hilfiger",
+            "Women"
+        ],
+        "unitsPerPallet": "NA",
+        "productType": "I",
+        "isBom": false,
+        "brand": [
+            "tommy hilfiger"
+        ],
+        "availableCharacteristics": {
+            "availableCharacteristics": [
+                {
+                    "productId": "4CB4C08988CD494F9B48C6D1A56E2A7F",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "33F13FF6793546F1A9DB011431EB4DBE",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                },
+                {
+                    "productId": "08DD271A9045466797F865814125E4E9",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                },
+                {
+                    "productId": "367D02E2178F4DD2A41BAA00CE77EBF5",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                },
+                {
+                    "productId": "D8E1BB963C0D4C259F1102EB428A2FBF",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                },
+                {
+                    "productId": "A554E6ADB5E3444B99DBE69EB59CD8F2",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                },
+                {
+                    "productId": "8B3056038EA04AA38B6E4DBA41EF102E",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                },
+                {
+                    "productId": "B8AB103D25F349FAB42760C79959E751",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                },
+                {
+                    "productId": "701209CA34D84BECAAF33CDE95BC02A8",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "C86CB794D5314E4EB7C7090B190D0375",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "882544FC9F6C4C9CBFCB73774D27C8AA",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "956C51DEFBAD439DB51773DD30D3543A",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "CA5AFCD6B2E044779668617E1E9B6E6A",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "E40DBB8905494C779BA601EAEEF0D427",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "7DE6775E519C43AF9FE9F9B6393E93F3",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "L"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Full"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Loose"
+                        }
+                    ]
+                },
+                {
+                    "productId": "51FFA0DE8C7C4DE18C3CED448E219AB7",
+                    "characteristics": [
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        },
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Sleeve",
+                            "value": "Half"
+                        },
+                        {
+                            "name": "Fit",
+                            "value": "Tight"
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVerified": false,
+        "isActive": true,
+        "kaBarCode": "870291599450",
+        "categories": {
+            "categories": {
+                "name": "Women",
+                "subCategory": {
+                    "name": "Women's Clothing",
+                    "subCategory": {
+                        "name": "Shirt",
+                        "subCategory": null,
+                        "id": "32E472CAEB5343C4B5BAD21F57097902"
+                    },
+                    "id": "2E43A96D025F41AAACE76C16E2FA8E1D"
+                },
+                "id": "4F3AC4E591B24326A12736C91339AB01"
+            }
+        },
+        "isShippingRequired": true,
+        "merchantIdentifier": "1FD7E66D12EB464787A6A6CEFB6C001C",
+        "kaComparePrice": "0.00",
+        "price": "64.50",
+        "new": "true",
+        "isPurchased": true,
+        "sku": "320129448681",
+        "fullDescription": "",
+        "variation": [
+            {
+                "size": [
+                    {
+                        "name": "m",
+                        "stock": 10
+                    }
+                ],
+                "color": "blue",
+                "sleeve": "half",
+                "fit": "tight"
+            }
+        ],
+        "selectedvariation": [
+            {
+                "name": "size",
+                "value": "m"
+            },
+            {
+                "name": "color",
+                "value": "blue"
+            },
+            {
+                "name": "sleeve",
+                "value": "half"
+            },
+            {
+                "name": "fit",
+                "value": "tight"
+            }
+        ],
+        "possiblevariation": [
+            {
+                "name": "size",
+                "value": {
+                    "variationvalue": [
+                        "m",
+                        "l"
+                    ]
+                }
+            },
+            {
+                "name": "color",
+                "value": {
+                    "variationvalue": [
+                        "blue",
+                        "red"
+                    ]
+                }
+            },
+            {
+                "name": "sleeve",
+                "value": {
+                    "variationvalue": [
+                        "half",
+                        "full"
+                    ]
+                }
+            },
+            {
+                "name": "fit",
+                "value": {
+                    "variationvalue": [
+                        "loose",
+                        "tight"
+                    ]
+                }
+            }
+        ],
+        "afinalDiscountedPrice": 33.540000000000006,
+        "bfinalDiscountedPrice": 33.540000000000006
+    },
+    {
+        "isInvoicePrintDetails": false,
+        "classification": "NA",
+        "isInvoicePicklistPrintDetails": false,
+        "upc": "678765436784",
+        "numberOfVisitors": "NA",
+        "tax": {
+            "name": "DefaultTaxCategory",
+            "percentage": 0,
+            "id": "B45094CAE919493A9DB1630E862A20CD"
+        },
+        "shortUrl": "kfPCqP",
+        "weight": "1.00",
+        "stockMin": "NA",
+        "shortDescription": "Toddler and Little Boys Waffle Knit Long Sleeve T-shirt",
+        "hasDiscount": false,
+        "offerEnd": "January 5, 2021 12:11:00",
+        "uomWhlId": "Kilogram",
+        "brands": {
+            "name": "Polo Ralph Lauren",
+            "subBrand": null,
+            "id": "4206BA9AF12847698158219478C739AD"
+        },
+        "options": {
+            "options": [
+                "color",
+                "size"
+            ],
+            "defaultOption": {
+                "color": "Blue",
+                "size": "S"
+            },
+            "showOptionUnique": [],
+            "optionValues": [
+                {
+                    "color": [
+                        "Blue",
+                        "Red"
+                    ]
+                },
+                {
+                    "size": [
+                        "S",
+                        "M"
+                    ]
+                }
+            ]
+        },
+        "qtyStd": "NA",
+        "saleCount": 16,
+        "isGeneric": true,
+        "rating": 1,
+        "productNumber": "57453542",
+        "charactersiticsDescription": "NA",
+        "currentCharacteristic": "NA",
+        "qtyMin": "NA",
+        "qtyType": false,
+        "genericProductId": "NA",
+        "addedToCartCount": "NA",
+        "isStocked": 18,
+        "kaScreenShotIpad": "NA",
+        "kaIsVariants": true,
+        "category": [
+            "kids"
+        ],
+        "kaDiscountEnabled": "false",
+        "instantCheckout": true,
+        "purchaseCount": "NA",
+        "proprietaryPageUrl": "",
+        "isTaxable": false,
+        "kaScreenShotMobile": "NA",
+        "volume": "0",
+        "shelfHeight": "20",
+        "name": "Toddler and Little Boys Waffle Knit Long Sleeve T-shirt",
+        "shelfWidth": "10",
+        "discount": 26,
+        "kaScreenShotDesktop": "NA",
+        "isSold": true,
+        "image": [
+            "https://images.kachyng.com/be2d/6a9c/e9a9/a27d/7737270598193384/04858c723d604403eb8908828bebf239.jpeg",
+            "https://images.kachyng.com/be2d/6a9c/e9a9/a27d/7737270598193384/5f3df195baf6a94fd13c9dab09cfb5c2.jpeg",
+            "https://images.kachyng.com/be2d/6a9c/e9a9/a27d/7737270598193384/7be50e8418fea4988ad159519d0f6a57.jpeg"
+        ],
+        "shelfDepth": "30",
+        "qtyMax": "NA",
+        "costType": "NA",
+        "id": "45378DF585474BD3B447097933578FCD",
+        "tags": [
+            "NA"
+        ],
+        "unitsPerPallet": "NA",
+        "productType": "I",
+        "isBom": false,
+        "brand": [
+            "polo ralph lauren"
+        ],
+        "availableCharacteristics": {
+            "availableCharacteristics": [
+                {
+                    "productId": "BB31DEDA400B40ACA0FE3739A925C2C3",
+                    "characteristics": [
+                        {
+                            "name": "color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "size",
+                            "value": "S"
+                        }
+                    ]
+                },
+                {
+                    "productId": "648EB2F166954591B5195582C08EF08D",
+                    "characteristics": [
+                        {
+                            "name": "color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "size",
+                            "value": "S"
+                        }
+                    ]
+                },
+                {
+                    "productId": "20E30C0B361A4B8EA81C6DD0E5082B0D",
+                    "characteristics": [
+                        {
+                            "name": "color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "size",
+                            "value": "M"
+                        }
+                    ]
+                },
+                {
+                    "productId": "5756C18D1DCD440884DE8D7B93C0B593",
+                    "characteristics": [
+                        {
+                            "name": "color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "size",
+                            "value": "M"
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVerified": false,
+        "isActive": true,
+        "kaBarCode": "700575155212",
+        "categories": {
+            "categories": {
+                "name": "Kids",
+                "subCategory": null,
+                "id": "790E8B765B404BF49FA8198FE8A81EF3"
+            }
+        },
+        "isShippingRequired": true,
+        "merchantIdentifier": "1FD7E66D12EB464787A6A6CEFB6C001C",
+        "kaComparePrice": "0.00",
+        "price": "19.75",
+        "new": "true",
+        "isPurchased": true,
+        "sku": "087404100725",
+        "fullDescription": "",
+        "possiblevariation": [
+            {
+                "name": "color",
+                "value": {
+                    "variationvalue": [
+                        "blue",
+                        "red"
+                    ]
+                }
+            },
+            {
+                "name": "size",
+                "value": {
+                    "variationvalue": [
+                        "s",
+                        "m"
+                    ]
+                }
+            }
+        ],
+        "prodId": "BB31DEDA400B40ACA0FE3739A925C2C3",
+        "afinalDiscountedPrice": 14.615
+    },
+    {
+        "isInvoicePrintDetails": false,
+        "classification": "NA",
+        "isInvoicePicklistPrintDetails": false,
+        "upc": "567890543234",
+        "numberOfVisitors": "NA",
+        "tax": {
+            "name": "DefaultTaxCategory",
+            "rate": "0",
+            "id": "B45094CAE919493A9DB1630E862A20CD"
+        },
+        "shortUrl": "gOJjIb",
+        "weight": "0.50",
+        "stockMin": "NA",
+        "shortDescription": "Men's Long Sleeved Waffle Hoodie",
+        "hasDiscount": false,
+        "offerEnd": "January 5, 2021 12:11:00",
+        "uomWhlId": "Kilogram",
+        "brands": {
+            "name": "Tommy Hilfiger",
+            "subBrand": null,
+            "id": "8BC2D2BAD7914B2A9A0D1E95AB273CA8"
+        },
+        "options": {
+            "options": [
+                "Color",
+                "Size"
+            ],
+            "defaultOption": {
+                "Size": "S",
+                "Color": "Red"
+            },
+            "showOptionUnique": [],
+            "optionValues": [
+                {
+                    "Color": [
+                        "Red",
+                        "Blue"
+                    ]
+                },
+                {
+                    "Size": [
+                        "S",
+                        "M"
+                    ]
+                }
+            ]
+        },
+        "qtyStd": "NA",
+        "saleCount": 18,
+        "isGeneric": true,
+        "rating": 0,
+        "productNumber": "83300299",
+        "charactersiticsDescription": "NA",
+        "currentCharacteristic": "NA",
+        "qtyMin": "NA",
+        "qtyType": false,
+        "genericProductId": "NA",
+        "addedToCartCount": "NA",
+        "isStocked": 10,
+        "kaScreenShotIpad": "NA",
+        "kaIsVariants": true,
+        "category": [
+            "hoodies",
+            "men"
+        ],
+        "kaDiscountEnabled": "false",
+        "instantCheckout": true,
+        "purchaseCount": "NA",
+        "proprietaryPageUrl": "",
+        "isTaxable": false,
+        "kaScreenShotMobile": "NA",
+        "volume": "0",
+        "shelfHeight": "5",
+        "name": "Men's Long Sleeved Waffle Hoodie",
+        "shelfWidth": "5",
+        "discount": 7,
+        "kaScreenShotDesktop": "NA",
+        "isSold": true,
+        "image": [
+            "https://images.kachyng.com/1592/e1c4/1ff2/5da6/555d11d5b24fbc00/34491b0033080c5520ee1bab6c4052c1.jpeg",
+            "https://images.kachyng.com/1592/e1c4/1ff2/5da6/555d11d5b24fbc00/3a87bc2c43f6f48671cbb3ffca33755c.jpeg",
+            "https://images.kachyng.com/1592/e1c4/1ff2/5da6/555d11d5b24fbc00/55a1681b3a43e66e7198f5540f49d6cc.jpeg",
+            "https://images.kachyng.com/1592/e1c4/1ff2/5da6/555d11d5b24fbc00/ab659593ae2b11e5f1cb5d7a8b99fe30.jpeg"
+        ],
+        "shelfDepth": "5",
+        "qtyMax": "NA",
+        "costType": "NA",
+        "id": "1D13B35D1F5F402A984658AB2564D9A4",
+        "tags": [
+            "Hoodies"
+        ],
+        "unitsPerPallet": "NA",
+        "productType": "I",
+        "isBom": false,
+        "brand": [
+            "tommy hilfiger"
+        ],
+        "availableCharacteristics": {
+            "availableCharacteristics": [
+                {
+                    "productId": "E8E7A5F7A6784E2797390986798C36EB",
+                    "characteristics": [
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Size",
+                            "value": "S"
+                        }
+                    ]
+                },
+                {
+                    "productId": "1B49531C5AD749AEA1205906FDC3E2F8",
+                    "characteristics": [
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        }
+                    ]
+                },
+                {
+                    "productId": "60C0401AD03945B4B85D67466B6F1809",
+                    "characteristics": [
+                        {
+                            "name": "Color",
+                            "value": "Blue"
+                        },
+                        {
+                            "name": "Size",
+                            "value": "M"
+                        }
+                    ]
+                },
+                {
+                    "productId": "A165F00FE6674E8CB67167C537422D43",
+                    "characteristics": [
+                        {
+                            "name": "Color",
+                            "value": "Red"
+                        },
+                        {
+                            "name": "Size",
+                            "value": "S"
+                        }
+                    ]
+                }
+            ]
+        },
+        "isVerified": false,
+        "isActive": true,
+        "kaBarCode": "179008023323",
+        "categories": {
+            "categories": {
+                "name": "Men",
+                "subCategory": {
+                    "name": "Men's Clothing",
+                    "subCategory": {
+                        "name": "Hoodies",
+                        "subCategory": null,
+                        "id": "B1BC39CB3E894C93A4095BF7A1732FE1"
+                    },
+                    "id": "FB9F354E74FB4F5AAF7FBDE52B383208"
+                },
+                "id": "EB5FCBF5528C405F8FD6323B5765A1A8"
+            }
+        },
+        "isShippingRequired": true,
+        "merchantIdentifier": "1FD7E66D12EB464787A6A6CEFB6C001C",
+        "kaComparePrice": "65.00",
+        "price": "75.00",
+        "new": "true",
+        "isPurchased": true,
+        "sku": "143399223069",
+        "fullDescription": "<font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">This Weatherproof Vintage waffle hoodie is a staple for your fall wardrobe. Great for layering, this super-soft thermal hoodie is both comfortable and stylish.</font></font><br><ul><li><font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">Front kangaroo pouch</font></font><br></li><li><font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">Double-sided hood with drawstring</font></font><br></li><li><font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">Imported</font></font><br></li></ul><div><font size=\"4\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\"><strong><font size=\"2\">Materials &amp Care</font></strong></font></font><br></div><ul><li><font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">Machine wash cold with like colors, gentle cycle, use only non-chlorine bleach when needed, tumble dry low, cool iron if needed</font></font><br></li><li><font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">Cotton and Polyester</font></font><br></li><li><font size=\"2\"><font face=\"&ampampquotMacys Sans&quot, &ampampquotHelvetica Neue&quot, Helvetica, Arial, sans-serif\">Machine Washable.</font></font><br></li></ul><p class=\"sceditor-nlf\"><br></p>",
+        "possiblevariation": [
+            {
+                "name": "color",
+                "value": {
+                    "variationvalue": [
+                        "blue",
+                        "red"
+                    ]
+                }
+            },
+            {
+                "name": "size",
+                "value": {
+                    "variationvalue": [
+                        "s",
+                        "m"
+                    ]
+                }
+            }
+        ],
+        "prodId": "A165F00FE6674E8CB67167C537422D43",
+        "afinalDiscountedPrice": 69.75
+    }
+]

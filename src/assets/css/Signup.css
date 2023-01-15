@@ -1,0 +1,22 @@
+.gender-wrapper.d-flex label {
+    margin-right: 20px;
+}
+
+button.signup-btn {
+    width: 100%;
+    background-color: #6C63FF;
+    border: 1px solid #6C63FF;
+}
+
+.signup-col {
+    margin-top: 25px;
+    padding: 0 25px 0 0;
+}
+
+input.error {
+    border: 1px solid red!important;
+}
+
+div.error input {
+    border: 1px solid red!important;
+}

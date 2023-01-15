@@ -1,0 +1,36 @@
+.nav-list-sidebar a, .nav-logout a {
+    text-decoration: none;
+    padding: 15px 30px;
+    font-size: 20px;
+    color: #fff;
+    width: 100%;
+    display: block;
+}
+
+.nav-list-sidebar a.active {
+    color: blue;
+}
+
+.container-fluid {
+    background-color: palegoldenrod;
+}
+
+.navbar-row.row {
+    background-color: #4266B2;
+    color: aliceblue!important;
+    border-bottom: 0.5px solid black;
+}
+
+.mainpage-sidebar .nav-logout {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.mainpage-sidebar .nav-logout {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: left;
+}

@@ -1,0 +1,46 @@
+.icon-img {
+    width: 70px;
+    height: 70px;
+    margin-bottom: 2rem;
+}
+
+button.login-btn.btn.btn-primary {
+    width: 100%;
+    background-color: #6C63FF;
+    border: 1px solid #6C63FF;
+}
+
+.text-left-custom {
+    text-align: left;
+}
+
+.text-left-custom a {
+    text-decoration: none !important;
+}
+
+.reset {
+    color: black;
+
+}
+
+form.login-form {
+    position: relative;
+}
+
+p.error_list1 {
+    font-size: 12px;
+    margin-left: 10px;
+    position: absolute;
+    top: 40px;
+}
+
+p.error_list2 {
+    font-size: 12px;
+    margin-left: 10px;
+    position: absolute;
+    top: 103px;
+}
+
+.login-form input {
+    margin-bottom: 25px;
+}

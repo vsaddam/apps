@@ -1,0 +1,17 @@
+button.edit-action.btn.btn-warning {
+    margin-right: 15px;
+}
+
+.mainpage-sidebar {
+    background-color: black;
+    position: relative;
+    padding: 0px!important;
+}
+
+.main-page {
+    padding: 20px;
+}
+
+.mainpage-sidebar-cnt-row.row {
+    height: 90vh;
+}
